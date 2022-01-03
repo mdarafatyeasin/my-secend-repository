@@ -1,0 +1,13 @@
+h1 {
+    color: red;
+}
+
+.pragraph {
+    color: rgb(4, 156, 55);
+    border: 5px solid rgb(37, 153, 14);
+    border-radius: 5px;
+    background-color: black;
+    padding: 10px;
+    width: 50%;
+    margin: 30px;
+}
